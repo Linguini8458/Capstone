@@ -70,4 +70,4 @@ def instaload():
 {date}
 {title} 
 {desc}'''
-    bot.upload_photo("image.png",font=font, caption =instadesc)
+    bot.upload_photo("image.png", caption =instadesc)
